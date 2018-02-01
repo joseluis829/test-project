@@ -1,0 +1,177 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?la71a1');
+  src:  url('fonts/icomoon.eot?la71a1#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.woff2?la71a1') format('woff2'),
+    url('fonts/icomoon.ttf?la71a1') format('truetype'),
+    url('fonts/icomoon.woff?la71a1') format('woff'),
+    url('fonts/icomoon.svg?la71a1#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-acrobat-pdf:before {
+  content: "\e920";
+}
+.icon-generic:before {
+  content: "\e91f";
+}
+.icon-xls:before {
+  content: "\e923";
+}
+.icon-ai:before {
+  content: "\e924";
+}
+.icon-zip:before {
+  content: "\e925";
+}
+.icon-doc:before {
+  content: "\e926";
+}
+.icon-email:before {
+  content: "\e927";
+}
+.icon-ttf:before {
+  content: "\e928";
+}
+.icon-ppt:before {
+  content: "\e929";
+}
+.icon-desktop:before {
+  content: "\e930";
+}
+.icon-filter2:before {
+  content: "\e92e";
+}
+.icon-preview:before {
+  content: "\e92f";
+}
+.icon-play-preview:before {
+  content: "\e91a";
+}
+.icon-file-icon:before {
+  content: "\e90a";
+}
+.icon-download:before {
+  content: "\e92b";
+}
+.icon-sent-to-aprimo:before {
+  content: "\e91e";
+}
+.icon-CLOSE-REMOVE:before {
+  content: "\e91b";
+}
+.icon-thread:before {
+  content: "\e918";
+}
+.icon-threads-0:before {
+  content: "\e919";
+}
+.icon-solved:before {
+  content: "\e92a";
+}
+.icon-comment:before {
+  content: "\e916";
+}
+.icon-delete:before {
+  content: "\e910";
+}
+.icon-colors:before {
+  content: "\e90d";
+}
+.icon-add-idea-button:before {
+  content: "\e90c";
+}
+.icon-Page-1-Copy:before {
+  content: "\e90b";
+}
+.icon-dates-aprimo-icon:before {
+  content: "\e909";
+}
+.icon-plus:before {
+  content: "\e931";
+}
+.icon-tactics:before {
+  content: "\e913";
+}
+.icon-add:before {
+  content: "\e904";
+}
+.icon-close:before {
+  content: "\e905";
+}
+.icon-files:before {
+  content: "\e906";
+}
+.icon-tags:before {
+  content: "\e907";
+}
+.icon-text:before {
+  content: "\e908";
+}
+.icon-column-monthly:before {
+  content: "\e91c";
+}
+.icon-grid-monthly:before {
+  content: "\e91d";
+}
+.icon-tactic:before {
+  content: "\e914";
+}
+.icon-search-icon:before {
+  content: "\e90f";
+}
+.icon-calendar:before {
+  content: "\e90e";
+}
+.icon-zoom-in:before {
+  content: "\e902";
+}
+.icon-zoom-out:before {
+  content: "\e903";
+}
+.icon-drop-down:before {
+  content: "\e922";
+}
+.icon-rolled-up:before {
+  content: "\e92c";
+}
+.icon-user-select:before {
+  content: "\e92d";
+}
+.icon-filter:before {
+  content: "\e921";
+}
+.icon-back:before {
+  content: "\e917";
+}
+.icon-logout:before {
+  content: "\e915";
+}
+.icon-Triangle-collapsed:before {
+  content: "\e911";
+}
+.icon-Triangle-expanded:before {
+  content: "\e912";
+}
+.icon-following-month:before {
+  content: "\e900";
+}
+.icon-previous-month:before {
+  content: "\e901";
+}
